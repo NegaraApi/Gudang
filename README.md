@@ -1,0 +1,2 @@
+# Gudang
+Tempat Penyimpanan 
